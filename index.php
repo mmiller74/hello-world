@@ -5,6 +5,6 @@
 </head>
 <body>
   <h1>Hello World!</h1>
-  <img src='/images/black-white-city-street.jpg' alt='City Street - black and white'>
+  <img src='/images/black-white-city-street.jpg' alt='City Street - black and white' width="100%">
 </body>
 </html>
